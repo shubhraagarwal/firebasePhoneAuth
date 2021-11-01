@@ -10,7 +10,6 @@ import {
 
 // * Add your firebase config here
 const firebaseConfig = {
-  apiKey: "AIzaSyBZtnGyGJ5-dPsAK-srkyT8VEUcGy6JFJQ",
 };
 
 // Initialize Firebase
